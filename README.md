@@ -1,7 +1,5 @@
 # Vulnerable C program examples used to practice
 
----
-
 ## The most useful examples:
 The ones that taught me the most while experimenting
 

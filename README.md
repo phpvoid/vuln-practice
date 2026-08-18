@@ -2,7 +2,5 @@
 
 ---
 
-I'll make a Makefile eventually
-
-## My favorite examples:
+### My favorite examples:
 

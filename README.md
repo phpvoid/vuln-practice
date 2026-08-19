@@ -1,4 +1,5 @@
 # Vulnerable C Programs 
+(code links against glibc)
 
 ### The most useful examples:
 The ones that taught me the most while experimenting
